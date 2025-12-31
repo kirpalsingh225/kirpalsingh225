@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Kirpal%20Singh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50" />
+</div>
+
 # 💫 About Me:
 - I am Kirpal Singh currently working as an AI Engineer.
 - I'm currently working on building better Agentic Systems.
