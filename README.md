@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on building better Agentic Systems.
+- I am Kirpal Singh currently working as an AI Engineer.
+- I'm currently working on building better Agentic Systems.
+- I'm currently learning about the Long Horizon Agents and Computer Use Agents.
+- 📫 Reach me at: **kirpalsingh2252002@gmail.com**
 
 
 ## 🌐 Socials:
