@@ -1,13 +1,13 @@
 ![logo](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
 <h1 align="center">Hi 👋, I'm Kirpal Singh</h1>
-<h3 align="center">A passionate Machine and Deep Learning Engineer</h3>
+<h3 align="center">A persistent AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirpalsingh225&label=Profile%20views&color=0e75b6&style=flat" alt="kirpalsingh225" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🌱 I’m currently learning **Deep learning frameworks**
+- 🌱 I’m currently building **Agentic Systems**
 
-- 💬 Ask me about **Machine Learning , Deep Learning**
+- 💬 Ask me about **Machine Learning , Deep Learning, AI Agents.**
 
 - 📫 How to reach me **kirpalsingh2252002@gmail.com**
 
